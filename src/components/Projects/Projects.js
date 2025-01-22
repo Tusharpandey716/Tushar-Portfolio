@@ -37,7 +37,7 @@ function Projects() {
               imgPath={finance}
               isBlog={false}
               title="Finance-tracker"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="The **Personal Finance Tracker** is a MERN stack application designed to manage expenses and income effectively. It features an intuitive interface for tracking transactions, setting budgets, and visualizing spending with charts. Users can add, edit, or delete entries, ensuring financial control and planning with ease. Perfect for personal financial management."
               ghLink="https://github.com/Tusharpandey716/Finance-Tracker"
               //demoLink="https:///"
             />
